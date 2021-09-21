@@ -19,7 +19,7 @@ export const theme: AppTheme = {
     border: '#dedede',
   },
   size: {
-    h1: '30px',
+    h1: '35px',
   },
   other: {
     borderRadius: '5px',
